@@ -5,6 +5,9 @@
   "bugs": {
     "url": "https://github.com/eonasdan/bootstrap-datetimepicker/issues"
   },
+  "scripts": {
+    "build": "grunt"
+  },
   "peerDependencies": {
     "bootstrap-sass": "^3.4",
     "jquery": "^3.4",
@@ -13,7 +16,7 @@
   },
   "dependencies": {
     "bootstrap-sass": "^3.4",
-    "jquery": "^1.8.3 || ^2.0 || ^3.0",
+    "jquery": "^3.4",
     "moment": "^2.10",
     "moment-timezone": "^0.4.0"
   },
